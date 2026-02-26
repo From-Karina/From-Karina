@@ -1,7 +1,7 @@
-<h1 align="center">Oii, eu sou a Karina 👋</h1>
+<h1 align="center">Olá, eu sou a Karina 👋</h1>
 
 <p align="left">
-🎓 Estudante de Desenvolvimento de Sistemas <br>
+🎓 Atualmente sou estudante de Desenvolvimento de Sistemas <br>
 ☁️ Interessada em Cloud, IA, Dados e Robótica <br>
 🐍 Focada em Python e Java  
 </p>
