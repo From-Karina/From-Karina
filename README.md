@@ -1,6 +1,6 @@
 # Olá,eu sou a Karina
 
-Sou desenvolvedora em formação, explorando as fronteiras entre **Desenvolvimento de Sistemas** e **Data Science**. Meu trabalho foca na construção de lógica eficiente e na automação de processos, unindo o rigor do backend com a inteligência de dados.
+Sou desenvolvedora em formação, explorando as fronteiras entre **Desenvolvimento de Sistemas** e **Data Science**. Meu trabalho foca na construção de lógica eficiente e na automação de processos, unindo o backend com a inteligência de dados.
 
 ##
 
