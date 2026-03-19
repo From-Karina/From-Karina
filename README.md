@@ -38,7 +38,7 @@ Sou desenvolvedora em formação, explorando as fronteiras entre **Desenvolvimen
 
 <div align="left"> 
  
-  <a href="karinaflor.paula@gmail.com">
+  <a href="https://www.email.com/in/karinaflor.paula@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
