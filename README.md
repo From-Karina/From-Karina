@@ -36,13 +36,14 @@ Sou desenvolvedora em formação, explorando as fronteiras entre **Desenvolvimen
 
 ### 📫 Conecte-se comigo
 
-<div align="left"> 
- 
-  <a href="https://www.email.com/in/karinaflor.paula@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+
+<div align="left">
+  <a href="mailto:karinaflor.paula@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   
   <a href="https://www.linkedin.com/in/karina-pereira-50b3142b6/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
